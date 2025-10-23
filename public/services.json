@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://images.squarespace-cdn.com/content/v1/5b4544e485ede17941bc95fc/ce5406ef-3e32-4d42-abfb-2c09a1499357/dog-jackets-that-will-keep-your-furry-friend-toasty.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://wags2richesgrooming.com/wp-content/uploads/2024/05/Grooming-Your-Pets-Paws-Keeping-Them-Healthy-and-Clean-1-900x550.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Bed Rental & Fitting",
+    "providerName": "WarmNest Pet Care",
+    "providerEmail": "contact@warmnest.com",
+    "price": 12,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Short term heated bed rental to test the best fit for your pet's comfort.",
+    "image": "https://cdn-fastly.petguide.com/media/2022/02/28/8282788/best-heated-beds-for-dogs.jpg?size=720x845&nocrop=1",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Winter Play Sessions",
+    "providerName": "SnugglePaws Daycare",
+    "providerEmail": "play@snugglepaws.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Warm indoor play sessions to keep pets active and warm safely during winter.",
+    "image": "https://www.petassure.com/petassure/file-streams/page/tbft1DQi8K60TB9yW59wU4indoor%20play%20in%20winter.jpg",
+    "category": "Services"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Paw Balm Home Delivery",
+    "providerName": "PawHeal Co.",
+    "providerEmail": "orders@pawheal.com",
+    "price": 9,
+    "rating": 4.5,
+    "slotsAvailable": 20,
+    "description": "Natural moisturizing paw balm with safe ingredients for winter paw care.",
+    "image": "https://petimpact.co.uk/cdn/shop/files/pet-impact-dog-paw-balm.webp?v=1742983538",
+    "category": "Products"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Senior Pet Warmth Consultation",
+    "providerName": "ElderPet Care",
+    "providerEmail": "support@elderpet.com",
+    "price": 40,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Expert consultation on keeping senior pets warm and comfortable during colder months.",
+    "image": "https://petreleaf.com/cdn/shop/articles/keeping-senior-dogs-warm-in-winter.png?v=1716925249",
+    "category": "Consultation"
+  }
+]
