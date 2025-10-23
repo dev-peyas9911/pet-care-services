@@ -1,6 +1,13 @@
+/* TailwindCSS and DaisyUi */
 @import "tailwindcss";
 @plugin "daisyui";
 
+/* Swipper JS */
+@import "swiper/css";
+@import "swiper/css/navigation";
+@import "swiper/css/pagination";
+
+/* NavLink style for active class */
 a.active {
     color: rgb(87, 244, 87);
     text-decoration: underline;
